@@ -1,2 +1,2 @@
-#!/bin/bash
-ls-la . .. /boot
+ #!/bin/bash
+chmod 755 $(find . -type d)
